@@ -7,5 +7,8 @@
 </head>
 <body>
     Hola desde windows
+    <?php
+    echo 'desde win';
+    ?>
 </body>
 </html>
